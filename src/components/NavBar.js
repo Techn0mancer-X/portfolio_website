@@ -9,7 +9,6 @@ const NavBar = () => {
           <nav className="flex ">
             <NavLink
               to="/"
-              exact
               className="inline-flex items-center py-6 px-3 mr-4 text-white-100 focus:text-white hover:text-gray-300 font-bold font-type tracking-widest"
             >
               Techn0mancer_X
